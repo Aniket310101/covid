@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #1e2022;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.div1 {
+  color: white;
+  background-color: #1e2022;
+}
+
+.div2 {
+  color: white;
+  background-color: #1e2022;
+}
+
+.covid {
+  margin-top: 0;
+  text-align: left;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 150px;
+  margin-bottom: 0;
+  padding-left: 8px
+}
+
+.power {
+  position: relative;
+  margin-top: 0;
+  font: "Courier New", Courier, monospace;
+  font-size: 40px;
+  bottom: 70px;
+  left: 330px;
+}
+
+.container-fluid{
+  padding: 0 3%;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.slogan {
+  text-align: left;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.art {
+  margin: 0 10px 0 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  text-align: left;
+  font-size: 20px;
+  line-height: 2;
+}
+
+hr {
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.bottom-container {
+  padding-top: 20px;
+  color: white;
+  background-color: #1e2022;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  color: #11999E
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+h3{
+  color: white;
+}
+
+.download-btn{
+  margin: 5% 3% 5%;
+}
+
+.navbar-brand{
+  font-size: 3rem;
+}
+
+.div1{
+  padding:4.5rem 0 0 ;
+}
